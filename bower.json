@@ -1,0 +1,30 @@
+{
+  "name": "img-killer",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cobbdb/img-killer",
+  "authors": [
+    "Dan <cobbdb@gmail.com>"
+  ],
+  "description": "Stop those pesky images from loading.",
+  "main": "imgkiller.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "img",
+    "http",
+    "request",
+    "cancel",
+    "stop",
+    "images",
+    "loading"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
